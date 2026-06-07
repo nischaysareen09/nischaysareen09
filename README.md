@@ -33,6 +33,12 @@ I'm an AI/ML Engineer who builds production-grade intelligent systems — not ju
 
 ### 🧠 [Sentimetrix-TCN — Multimodal Financial Decision Support System](https://github.com/nischaysareen09/Sentimetrix-Project)
 
+<p>
+  <a href="https://sentimetrix-project-1.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-sentimetrix--project--1.onrender.com-1D9E75?style=flat" /></a>
+  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Model%20Accuracy-89.6%25-blue?style=flat" />
+</p>
+
 > A state-of-the-art financial analysis platform combining Deep Learning, Generative AI, and real-time market data to generate explainable **Strong Buy / Sell signals**.
 
 **What it does:**
