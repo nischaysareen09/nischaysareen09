@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Nischay Sareen 👋</h1>
 
 <p align="center">
-  <b>AI / ML Engineer &nbsp;·&nbsp; Generative AI &nbsp;·&nbsp; Full-Stack ML Systems</b><br/>
-  <i>B.Tech CSE (Data Science) &nbsp;|&nbsp; Building intelligent systems end-to-end</i>
+  <b>Full Stack Developer &nbsp;·&nbsp; Generative AI &nbsp;·&nbsp; Full-Stack ML Systems</b><br/>
+  <i>B.Tech CSE &nbsp;|&nbsp; Building intelligent systems end-to-end</i>
 </p>
 
 <p align="center">
