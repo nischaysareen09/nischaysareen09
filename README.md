@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm an AI/ML Engineer who builds production-grade intelligent systems — not just notebooks. My work sits at the intersection of **Generative AI**, **Deep Learning**, and **full-stack development**. I care about building things that actually work end-to-end: real pipelines, real interfaces, real results.
+I'm an Full Stack Developer who builds production-grade intelligent systems — not just notebooks. My work sits at the intersection of **Generative AI**, **Deep Learning**, and **full-stack development**. I care about building things that actually work end-to-end: real pipelines, real interfaces, real results.
 
 - 🔭 Currently building agentic AI systems and LLM-powered applications
 - 🧠 Deep interest in RAG architectures, LLM reasoning, and financial ML
