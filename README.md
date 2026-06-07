@@ -87,9 +87,10 @@ profile = {
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nischaysareen09&show_icons=true&hide_border=true&theme=default&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischaysareen09&layout=compact&hide_border=true&theme=default" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=nischaysareen09&hide_border=true&mode=weekly" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischaysareen09&layout=compact&hide_border=true&theme=default&langs_count=6" height="150"/>
 </p>
 
 ---
