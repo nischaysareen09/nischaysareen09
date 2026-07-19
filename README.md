@@ -1,112 +1,208 @@
-<h1 align="center">Hi, I'm Nischay Sareen 👋</h1>
+<div align="center">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Nischay Sareen
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=AI%2FML+Engineer+%7C+GenAI+Developer;Full-Stack+%7C+LangChain+%7C+RAG+%7C+FastAPI;Python+%7C+React+%7C+PyTorch;Building+AI-Powered+Applications;B.Tech+CSE+%40+Amity+University" />
+
+<br>
+
+<img src="https://img.shields.io/badge/B.Tech%20CSE-Amity%20University-0092D1?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML-LLMs%20%7C%20RAG%20%7C%20LangChain-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full--Stack-React%20%7C%20FastAPI-326CE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge&logo=github"/>
+
+</div>
+
+---
 
 <p align="center">
-  <b>Full Stack Developer &nbsp;·&nbsp; Generative AI &nbsp;·&nbsp; Full-Stack ML Systems</b><br/>
-  <i>B.Tech CSE &nbsp;|&nbsp; Building intelligent systems end-to-end</i>
+Passionate AI/ML engineer and full-stack developer building GenAI-powered applications, RAG pipelines, and scalable web platforms.
+<br>
+Currently finishing my <b>B.Tech in Computer Science Engineering at Amity University</b>, with hands-on experience building LLM-driven agents, document intelligence pipelines, and production full-stack apps.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-1D9E75?style=flat" />
-</p>
+<div align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="700"/>
+</div>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-I'm an Full Stack Developer who builds production-grade intelligent systems — not just notebooks. My work sits at the intersection of **Generative AI**, **Deep Learning**, and **full-stack development**. I care about building things that actually work end-to-end: real pipelines, real interfaces, real results.
+```yaml
+Name        : Nischay Sareen
+Role        : AI/ML Engineer & Full-Stack Developer
+Education   : B.Tech, Computer Science Engineering (2026)
+College     : Amity University, Noida, Uttar Pradesh
+Location    : New Delhi, India
 
-- 🔭 Currently building agentic AI systems and LLM-powered applications
-- 🧠 Deep interest in RAG architectures, LLM reasoning, and financial ML
-- 🛠️ I work across the full stack — from model training to React dashboards
-- 📍 Based in India &nbsp;|&nbsp; Open to remote & hybrid roles
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nischay-sareen/) &nbsp;|&nbsp; [GitHub](https://github.com/nischaysareen09)
+Languages   : Python • JavaScript • Java • SQL
+Frontend    : React • HTML5 • CSS3 • Tailwind CSS • Bootstrap • Streamlit
+Backend     : FastAPI • Node.js • REST APIs • JWT Authentication
+Databases   : PostgreSQL • MySQL • MongoDB
+Cloud/DevOps: AWS • Azure • Docker • Git • Vercel • Render • Linux
+AI/GenAI    : LLMs • RAG • Prompt Engineering • LangChain • LangGraph
+              FAISS • ChromaDB • PyTorch • TensorFlow • Scikit-learn • MLflow
 
----
-
-## Featured Projects
-
-### 🧠 [Sentimetrix-TCN — Multimodal Financial Decision Support System](https://github.com/nischaysareen09/Sentimetrix-Project)
-
-<p>
-  <a href="https://sentimetrix-project-1.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-sentimetrix--project--1.onrender.com-1D9E75?style=flat" /></a>
-  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat" />
-  <img src="https://img.shields.io/badge/Model%20Accuracy-89.6%25-blue?style=flat" />
-</p>
-
-> A state-of-the-art financial analysis platform combining Deep Learning, Generative AI, and real-time market data to generate explainable **Strong Buy / Sell signals**.
-
-**What it does:**
-- Analyzes **17+ technical indicators** (RSI, MACD, Bollinger Bands, ATR) in real time using a **Temporal Convolutional Network (TCN)** — achieving **>89.6% validation accuracy**
-- Integrates a **local LLM (DistilGPT-2)** to generate natural language explanations of market signals
-- Uses **RAG + FAISS** with expert financial rules to explain *why* a signal was triggered
-- Scans live news from Yahoo Finance & Google News RSS for real-time sentiment analysis
-- Full **React + Vite + Tailwind CSS** dashboard with interactive Recharts price & indicator visualizations
-
-**Tech Stack:**
-`Python` `PyTorch` `FastAPI` `LangChain` `FAISS` `Transformers` `TA-Lib` `yfinance` `React` `Recharts` `Tailwind CSS`
-
----
-
-### 🤖 [Agentic RAG — Document Question Answering System](https://github.com/nischaysareen09/Agentic-RAG-Based-Document-Question-Answering-System)
-
-> An AI-powered application that lets users upload any PDF and ask natural language questions — powered by an agentic RAG pipeline with semantic search and LLM-generated answers.
-
-**What it does:**
-- Upload PDFs → automatically parsed, chunked, and converted into **vector embeddings** stored in **FAISS**
-- User queries trigger semantic search to retrieve the most relevant chunks
-- An **agentic AI framework (CrewAI + LangChain)** orchestrates retrieval and feeds context to an LLM for accurate, grounded answers
-- Built on **Streamlit** for an interactive, zero-friction web interface
-- Modular architecture designed for extension: multi-document reasoning, hybrid search, and local LLM deployment planned
-
-**Tech Stack:**
-`Python` `LangChain` `CrewAI` `OpenAI API` `FAISS` `Sentence Transformers` `PyPDF` `Streamlit` `Jupyter Notebook`
-
----
-
-## Tech Stack
-
-```python
-profile = {
-    "ai_and_genai"   : ["LangChain", "CrewAI", "OpenAI API", "RAG", "Agentic AI", "DistilGPT-2"],
-    "deep_learning"  : ["PyTorch", "Transformers", "TCN", "Sentence Transformers"],
-    "ml_and_data"    : ["scikit-learn", "pandas", "NumPy", "FAISS", "TA-Lib"],
-    "backend"        : ["FastAPI", "Python 3.10+", "Uvicorn", "Streamlit"],
-    "frontend"       : ["React", "Vite", "Tailwind CSS", "Recharts"],
-    "tools"          : ["Jupyter Notebook", "Git", "VS Code", "Postman"],
-}
+Interests   :
+  - Generative AI & Multi-Agent Systems
+  - Full-Stack Development
+  - Retrieval-Augmented Generation
+  - Open Source
 ```
 
+<div align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=nischaysareen09&theme=tokyonight&hide_border=true"/>
+</div>
+
 ---
 
-## GitHub Stats
+## 🚀 Featured Projects
 
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Job Application Tracker</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nischaysareen09&hide_border=true&mode=weekly" height="150"/>
+Full-stack AI-powered job management platform with JWT authentication, a drag-and-drop Kanban board, and an analytics dashboard. Integrates the Groq LLM API for AI-generated cover letters and resume–JD match scoring with gap analysis. Deployed live with a Neon cloud database.
+<br><br>
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq%20LLM-GenAI-purple?style=for-the-badge"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischaysareen09&layout=compact&hide_border=true&theme=default&langs_count=6" height="150"/>
+<a href="https://github.com/nischaysareen09">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 </p>
+</td>
+<td width="50%">
+<h3 align="center">Sentimetrix</h3>
+<p align="center">
+Hybrid deep learning system for stock market prediction, fusing a Temporal Convolutional Network for time-series analysis with a RAG-based LLM pipeline for news sentiment. Generates explainable Buy/Hold/Sell signals via attention-based fusion of RSI, MACD, and LLM-derived sentiment, deployed as a live Streamlit dashboard.
+<br><br>
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/LangChain-RAG-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS%2FChromaDB-Vector%20Search-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit"/>
+</p>
+<p align="center">
+<a href="https://github.com/nischaysareen09">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## Let's Connect
+## 💼 Experience Highlights
 
-I'm actively looking for **AI/ML Engineer**, **Generative AI Engineer**, or **Data Scientist** roles — remote or hybrid.
+- **AI Intern @ Winniio AB** — Built LangChain-based Doctor/Nurse agents for an AI-powered Digital Twin Hospital Simulator; developed an OCR + NLP document ingestion pipeline; implemented FAISS-based RAG to ground LLM outputs and reduce hallucinations, deployed via Dockerized FastAPI endpoints.
+- **Data Science Intern @ CodersCave** — Built preprocessing and feature engineering pipelines that improved workflow efficiency by 20%, and trained Scikit-learn classification models achieving 95% precision.
 
-If you're building something interesting with LLMs, RAG, or financial ML, I'd love to talk.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Technology%20Stack&fontSize=28&fontColor=00F7FF&animation=fadeIn"/>
+</div>
 
-<p>
-  <a href="https://www.linkedin.com/in/nischay-sareen/"><img src="https://img.shields.io/badge/LinkedIn-Nischay%20Sareen-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://github.com/nischaysareen09"><img src="https://img.shields.io/badge/GitHub-nischaysareen09-181717?style=flat&logo=github&logoColor=white" /></a>
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css&theme=dark"/>
+<br><br>
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark"/>
+<br>
+<img src="https://img.shields.io/badge/Streamlit-Data%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<br><br>
+
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark"/>
+<br>
+<img src="https://img.shields.io/badge/REST%20APIs-Design-lightgrey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens"/>
+<br><br>
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vercel,linux&theme=dark"/>
+<br><br>
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark"/>
+<br><br>
+
+### AI / ML / GenAI
+<img src="https://img.shields.io/badge/LLMs-GenAI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-Orchestration-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-Multi--Agent-teal?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS%2FChromaDB-Vector%20DB-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/scikit--learn-ML-orange?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-0194E2?style=for-the-badge"/>
+<br><br>
+
+### AI Dev Tools
+<img src="https://img.shields.io/badge/Claude%20Code-AI%20Coding-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cursor-AI%20IDE-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Pairing-black?style=for-the-badge&logo=githubcopilot"/>
+
+</div>
 
 ---
 
-<p align="center"><i>"The best AI systems don't just predict — they explain. That's what I build."</i></p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischaysareen09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nischaysareen09&theme=tokyonight"/>
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nischaysareen09&theme=tokyo-night&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Live%20Developer%20Quote&fontSize=28&fontColor=00F7FF&animation=fadeIn"/>
+</div>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Visitor%20Counter&fontSize=28&fontColor=00F7FF&animation=fadeIn"/>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nischaysareen09&style=for-the-badge&color=0e75b6"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Random%20Developer%20Joke&fontSize=28&fontColor=00F7FF&animation=fadeIn"/>
+</div>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Let's%20Connect&fontSize=28&fontColor=00F7FF&animation=fadeIn"/>
+</div>
+<div align="center">
+  <a href="mailto:nischaysareen1@gmail.com">
+    <img src="https://img.shields.io/badge/Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nischaysareen09">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</div>
