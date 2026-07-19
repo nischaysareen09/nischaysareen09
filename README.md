@@ -4,13 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=AI+Engineer+%7C+GenAI+Developer;Full-Stack+Developer;Python+%7C+Go+%7C+React+%7C+FastAPI;Building+AI-Powered+Applications;B.Tech+CSE+%40+Amity+University" />
 
-<br>
-
-<img src="https://img.shields.io/badge/B.Tech%20CSE-Amity%20University-0092D1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Engineer-GenAI%20%26%20LLMs-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full--Stack%20Developer-React%20%2B%20FastAPI-326CE5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge&logo=github"/>
-
 </div>
 
 ---
@@ -51,10 +44,6 @@ Interests   :
   - Retrieval-Augmented Generation
   - Open Source
 ```
-
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=nischaysareen09&theme=tokyonight&hide_border=true"/>
-</div>
 
 ---
 
